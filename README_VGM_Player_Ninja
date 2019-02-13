@@ -1,3 +1,11 @@
-Plays Ninja Tune from Sega Master 
+Plays Ninja Tune from Sega Master System 
+using SN76489AN and an Arduino
 
-Netzfund
+modified Code from Kasser Art
+
+https://www.youtube.com/watch?v=qm3401rCYT4
+https://github.com/artkasser
+
+
+converted VGM to data using this tool
+http://www.vgmpf.com/Wiki/index.php/VGM_to_TXT
