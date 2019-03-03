@@ -1,7 +1,7 @@
 # Arduino
 
-Arduino Code Examples 
+Arduino Code Example
 
-sometimes tested working - no warranty ;-)
+for testing 74LS673 16 Bit shiftregister
 
 
